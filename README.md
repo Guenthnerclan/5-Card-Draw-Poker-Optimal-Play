@@ -60,4 +60,4 @@ Otherwise, employ the non-flush oriented strategy above.
 
 ## Winrate Increase
 
-As a test to deterine the effectiveness of these improved choices against the A.I. choices, final simulations were run employing these strategies against 4 A.I. players. Unfortunately, the base strategy is the bulk of the work in winning games, and the extra tweaks make hardly any improvements. A simulation of 5 million such games netted a winrate of 80.47%, whereas perfectly equal play among these five players should average out to 80%. So, a half a percent increase in winrate was achieved.
+As a test to determine the effectiveness of these improved choices against the A.I. choices, final simulations were run employing these strategies against 4 A.I. players. Unfortunately, the base strategy is the bulk of the work in winning games, and the extra tweaks make hardly any improvements. A simulation of 5 million such games netted a winrate of 80.47%, whereas perfectly equal play among these five players should average out to 80%. So, a half a percent increase in winrate was achieved.
